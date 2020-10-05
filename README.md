@@ -16,3 +16,4 @@ In Employee SQL folder, there are SQL commands for each separate instance format
 Open up the two Jupyter notebooks and run them. Be sure to change out your surrent username and password in the code. 
 # Result
 Organized old csv files into new tables/databases through python and postgres SQL database.  
+ 
