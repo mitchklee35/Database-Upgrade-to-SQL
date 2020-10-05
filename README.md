@@ -13,6 +13,6 @@ Updating the database with old CSV files and converting them to SQL. The instruc
 # Organization
 In Employee SQL folder, there are SQL commands for each separate instance formatted as notepad commands. 
 # How to Run
-Open up the two Jupyter notebooks and run them with your username and password in postgres.
+Open up the two Jupyter notebooks and run them. Be sure to change out your surrent username and password in the code. 
 # Result
 Organized old csv files into new tables/databases through python and postgres SQL database.  
