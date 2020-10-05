@@ -1,5 +1,5 @@
 # sql-challenge - Data Analysis and Visualization Course
-# CSV to SQL
+# CSV to SQL Using Python
 # Function
 Updating the database with old CSV files and converting them to SQL. The instructions are as follows. <br />
 1.	List the following details of each employee: employee number, last name, first name, gender, and salary. <br />
